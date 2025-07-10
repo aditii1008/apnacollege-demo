@@ -2,5 +2,5 @@
 This is my first Git Repository.
 <br>
 
-Author-Aditi Gangwar
+Author-Aditi Gangwar(B-Tech)
 
